@@ -1,0 +1,10 @@
+MIDlet-1: testMidlet, , testMidlet
+MIDlet-2: alterRMS, , alterRMS
+MIDlet-3: rms, , rms
+MIDlet-Jar-Size: 214758
+MIDlet-Jar-URL: Millionaire.jar
+MIDlet-Name: Millionaire
+MIDlet-Vendor: Vendor
+MIDlet-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
